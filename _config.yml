@@ -4,10 +4,10 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: zhengying
+subtitle: "人到中年 一事无成"
+description: "人到中年 一事无成"
+keywords: 郑莹,  zhengying, 中年
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -33,12 +33,12 @@ compress_html:
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: zhengying
 organization: 
 organization_url: 
 github_username: mzlogin
 location: Wuhan, China
-email: chumpma@gmail.com
+email: yingzheng9527@163.com
 
 # ---------------- #
 #    Navigation    #
