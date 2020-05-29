@@ -11,7 +11,7 @@ keywords: 郑莹,  zhengying, 中年
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: zhengyingCS/zhengying.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -36,8 +36,8 @@ compress_html:
 author: zhengying
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
+github_username: zengyingCS
+location: Shanghai, China
 email: yingzheng9527@163.com
 
 # ---------------- #
