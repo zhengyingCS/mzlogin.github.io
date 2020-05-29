@@ -2,15 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44a64f15-bd65-4972-ae3c-3fa9f60d572b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mzlogin.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-05-25-export-data-from-excel-to-word-by-vba.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-05-25-gather-multi-excel-to-one-by-vba.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-04-basis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-06-basis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2011-11-20-permutation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-02-12-hge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-02-24-gecko-embed.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-01-mozilla-file-tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-15-gecko-plugin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-03-22-vba-knowledge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-04-05-learn-python-practise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-04-08-learn-python-practise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-06-17-windows-skills.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-06-19-gecko-use-profile.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-04-18-windows-ui-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-05-19-when-your-exe-name-contains-install-or-setup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-06-22-multi-included-source-file.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-10-26-namespace-with-a-static-variable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-11-23-HFDP-Notes1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-12-03-HFDP-Notes2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-12-22-HFDP-Notes3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-02-19-excel-incommonuse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-03-07-pits-in-windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-10-numbersign.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-24-virtualfunctions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-05-31-HFDP-Note4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-01-comsketch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-06-29-acl-chapter2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-cppinit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-13-dllsearch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-19-fiddlerwithwinhttp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-20-fiddlercontextmenu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-01-deadlock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-13-make-exe-small.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-09-path-after-rename.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-12-csdnresautocomment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-21-vim-python-autocomplete.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-31-simplify-apk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-01-19-printf.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-31-singleton-process.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-03-java-date.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-06-dp-sp-px.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-06-android-studio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-10-emacs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-15-java-compare.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-27-svn-exception.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-14-win-discuz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-23-vim-taglist-smali.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-08-fiddler-filter-by-device.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-25-mac.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-31-pits-in-vimscript.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-02-excel-sift.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-05-diff-between-gfm-and-redcarpet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-15-java-object-finalize.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-19-vim-markdown-toc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-12-use-ubuntu-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-14-android-system-cache.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-16-build-zeal-for-mac-osx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-04-switch-to-kramdown-from-redcarpet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-10-am-start-user-parameter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-07-how-to-use-github-effective.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-18-develop-nodejs-with-atom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-20-determine-if-my-activities-foreground.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-05-21-enable-https-for-github-pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-28-vim-kramdown-tab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-11-remove-https.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-08-03-add-outline-for-markdown-in-vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-08-30-java-guide-to-cpp-programmers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-09-20-java-output-ab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-22-vim-markdown-toc-release.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-14-rtfsc-with-opengrok.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-20-java-auto-boxing-unboxing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-01-markdown-odd-skills.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-08-30-aboutlife.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-09-27-myself.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-10-28-sevenhabits.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-11-25-jestem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-12-06-emotion-manage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-12-07-habit-training-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2014-12-14-find-a-girl-friend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-02-01-some-impressions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-02-14-strum-life.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-03-30-work-lesson.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-05-09-no-need-to-tangle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-05-28-leader-art.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-06-01-sogou-hackathon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-06-12-wangxiaobo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-07-23-busy-smart.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-09-02-love.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2015-10-25-without-internet.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590716475800</updated>
-      <workItem from="1590716478178" duration="8313000" />
+      <workItem from="1590716478178" duration="9500000" />
     </task>
     <task id="LOCAL-00001" summary="模板修改">
       <created>1590726890058</created>
@@ -89,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590726890058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="模板修改">
+      <created>1590732823623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590732823623</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,10 +202,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="模板修改" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="525" y="112" key="CommitChangelistDialog2" timestamp="1590726889469">
+    <state x="525" y="112" key="CommitChangelistDialog2" timestamp="1590732822926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590726889469" />
+    <state x="525" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590732822926" />
     <state x="510" y="211" key="SettingsEditor" timestamp="1590731487541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
