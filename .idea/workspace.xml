@@ -49,7 +49,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590716475800</updated>
       <workItem from="1590716478178" duration="11371000" />
-      <workItem from="1590804966540" duration="2178000" />
+      <workItem from="1590804966540" duration="2723000" />
     </task>
     <task id="LOCAL-00001" summary="模板修改">
       <created>1590726890058</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590734143009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1590844750783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590844750784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,20 +126,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="模板修改" />
     <MESSAGE value="删除文章" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除文章" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="525" y="112" key="CommitChangelistDialog2" timestamp="1590734142018">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="374" y="0" key="CommitChangelistDialog2" timestamp="1590844749715">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="374" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590844749715" />
     <state x="525" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590734142018" />
-    <state x="510" y="211" key="SettingsEditor" timestamp="1590731487541">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="363" y="11" key="SettingsEditor" timestamp="1590845217054">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="363" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590845217054" />
     <state x="510" y="211" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590731487541" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590727074553">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="393" y="177" key="Vcs.Push.Dialog.v2" timestamp="1590844765732">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="393" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590844765732" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590727074553" />
     <state x="672" y="314" width="672" height="678" key="search.everywhere.popup" timestamp="1590731491784">
       <screen x="0" y="0" width="1920" height="1040" />
