@@ -62,15 +62,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基百科
+    label: 维基百科b
 
   -
     href: /links/
-    label: 链接aaa
+    label: 链接aaabb
 
   -
     href: /about/
-    label: 关于cccc
+    label: 关于ccccbb
 
 # ---------------- #
 #       RSS        #
