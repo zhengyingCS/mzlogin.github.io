@@ -75,6 +75,7 @@
       <updated>1590716475800</updated>
       <workItem from="1590716478178" duration="11371000" />
       <workItem from="1590804966540" duration="2723000" />
+      <workItem from="1590917851790" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="模板修改">
       <created>1590726890058</created>
@@ -145,6 +146,10 @@
     </state>
     <state x="393" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1590844765732" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590727074553" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1590917850088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590917850088" />
     <state x="672" y="314" width="672" height="678" key="search.everywhere.popup" timestamp="1590731491784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
