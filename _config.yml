@@ -21,7 +21,7 @@ components:
     # 分享
     share:
         enabled: false
-    # 不蒜子访问统计
+    # 不算子访问统计
     busuanzi:
         enabled: true
         start_date: 2020-05-03
@@ -36,7 +36,7 @@ compress_html:
 author: zhengying
 organization: 
 organization_url: 
-github_username: zengyingCS
+github_username: zengying
 location: Shanghai, China
 email: yingzheng9527@163.com
 
@@ -62,7 +62,7 @@ navs:
 
   -
     href: /wiki/
-    label: 维基baike
+    label: 维基
 
   -
     href: /links/
