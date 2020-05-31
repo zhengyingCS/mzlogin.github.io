@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44a64f15-bd65-4972-ae3c-3fa9f60d572b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="44a64f15-bd65-4972-ae3c-3fa9f60d572b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +46,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -75,7 +72,7 @@
       <updated>1590716475800</updated>
       <workItem from="1590716478178" duration="11371000" />
       <workItem from="1590804966540" duration="2723000" />
-      <workItem from="1590917851790" duration="975000" />
+      <workItem from="1590917851790" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="模板修改">
       <created>1590726890058</created>
@@ -136,10 +133,10 @@
     </state>
     <state x="374" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590844749715" />
     <state x="525" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590734142018" />
-    <state x="363" y="11" key="SettingsEditor" timestamp="1590845217054">
+    <state x="330" y="11" key="SettingsEditor" timestamp="1590919048778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590845217054" />
+    <state x="330" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590919048778" />
     <state x="510" y="211" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590731487541" />
     <state x="393" y="177" key="Vcs.Push.Dialog.v2" timestamp="1590844765732">
       <screen x="0" y="0" width="1366" height="728" />
