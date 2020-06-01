@@ -50,6 +50,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\zhengying\git_workspace\github\zhengying.github.io" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -75,7 +80,8 @@
       <workItem from="1590716478178" duration="11371000" />
       <workItem from="1590804966540" duration="2723000" />
       <workItem from="1590917851790" duration="4724000" />
-      <workItem from="1590981071559" duration="5034000" />
+      <workItem from="1590981071559" duration="6248000" />
+      <workItem from="1590995251426" duration="1257000" />
     </task>
     <task id="LOCAL-00001" summary="模板修改">
       <created>1590726890058</created>
@@ -136,11 +142,11 @@
     </state>
     <state x="374" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590844749715" />
     <state x="525" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590734142018" />
-    <state x="510" y="190" key="SettingsEditor" timestamp="1590992368711">
+    <state x="510" y="190" key="SettingsEditor" timestamp="1591003242206">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="330" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590931592475" />
-    <state x="510" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590992368711" />
+    <state x="510" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591003242206" />
     <state x="393" y="177" key="Vcs.Push.Dialog.v2" timestamp="1590844765732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -150,9 +156,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590917850088" />
-    <state x="672" y="314" width="672" height="678" key="search.everywhere.popup" timestamp="1590990737800">
+    <state x="672" y="314" width="672" height="678" key="search.everywhere.popup" timestamp="1591003363592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="672" y="314" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590990737800" />
+    <state x="672" y="314" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591003363592" />
   </component>
 </project>
