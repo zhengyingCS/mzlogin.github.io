@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-简介简介的水水水水
+这是我的简介
 
 这是我的简介
 
@@ -24,7 +24,7 @@ permalink: /about/
 {% if site.url contains 'mazhuang.org' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="小郑" />
 </li>
 {% endif %}
 </ul>
