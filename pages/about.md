@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-这是我的简介
+简介简介
 
 这是我的简介
 
