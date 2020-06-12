@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-这是我的简介
+众生皆苦
 
 这是我的简介
 
